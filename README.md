@@ -4,7 +4,7 @@
 
 - 🚀 I have experience with **Python and iOS Engineering**.
 - 👀 I’m interested in **Aerospace, Cyber Security, Electric Vehicles, and Cryptocurrency**.
-- 👨‍💻 I've worked on **<a href="https://www.lurecastapp.com" target="_blank" rel="noopener noreferrer">Lure Cast</a>, <a href="https://www.rippleapp.com" target="_blank" rel="noopener noreferrer">Ripple</a>, <a href="https://www.burrburton.org" target="_blank" rel="noopener noreferrer">BBA Mobile</a>, and more**.
+- 👨‍💻 I've worked on **<a href="https://www.lurecastapp.com" target="_blank">Lure Cast</a>, <a href="https://www.rippleapp.com" target="_blank">Ripple</a>, <a href="https://www.burrburton.org" target="_blank">BBA Mobile</a>, and more**.
 - 📫 Where to reach me:
 
 <div align="left" dir="auto">
