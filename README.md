@@ -3,7 +3,7 @@
 ### About me
 
 - 🚀 I have experience with **Python and iOS Engineering**.
-- 👀 I’m interested in **Aerospace, Cyber Security, Electric Vehicles, and Cryptocurrency**.
+- 👀 I’m interested in **Aerospace, Cyber Security, and Electric Vehicles**.
 - 👨‍💻 I've worked on **[Lure Cast](//www.lurecastapp.com), [Ripple](//www.rippleapp.com), [BBA Mobile](https://www.burrburton.org), [Envision](https://apps.apple.com/us/app/envision-physics/id1625221675), and more**.
 - 📫 Where to reach me:
     
